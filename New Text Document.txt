@@ -1,0 +1,172 @@
+[
+  {
+    "StudentId": 1,
+    "Country": "usa",
+    "ParentName": "adebo",
+    "Address": "seminary rd",
+    "City": "frankfurt",
+    "StudentName": "sky",
+    "PostalCode": 22345,
+    "Fee": 9000
+  },
+  {
+    "StudentId": 2,
+    "Country": "Canada",
+    "ParentName": "Amir",
+    "Address": "Queens Quay",
+    "City": "Toronto",
+    "StudentName": "Nabiha",
+    "PostalCode": 416,
+    "Fee": 4900
+  },
+  {
+    "StudentId": 3,
+    "Country": "Brazil",
+    "ParentName": "Negash",
+    "Address": "Mayo Road",
+    "City": "Rio Claro",
+    "StudentName": "Amanuel",
+    "PostalCode": 27460,
+    "Fee": 65432
+  },
+  {
+    "StudentId": 4,
+    "Country": "USA",
+    "ParentName": "Baheru",
+    "Address": "silver spring",
+    "City": "Maryland",
+    "StudentName": "Chala",
+    "PostalCode": 1000,
+    "Fee": 65432
+  },
+  {
+    "StudentId": 5,
+    "Country": "South Korea",
+    "ParentName": "Mamo",
+    "Address": "Gangnam Street",
+    "City": "Seoul",
+    "StudentName": "Henok",
+    "PostalCode": 135081,
+    "Fee": 22353
+  },
+  {
+    "StudentId": 6,
+    "Country": "ethiopia",
+    "ParentName": "Abebe",
+    "Address": "MG Road",
+    "City": "Bangalore",
+    "StudentName": "Leul",
+    "PostalCode": 560001,
+    "Fee": 23455
+  },
+  {
+    "StudentId": 7,
+    "Country": "USA",
+    "ParentName": "Abbagaro",
+    "Address": "silver spring",
+    "City": "Maryland",
+    "StudentName": "AbdulBasit",
+    "PostalCode": null,
+    "Fee": 20000
+  },
+  {
+    "StudentId": 8,
+    "Country": "USA",
+    "ParentName": "Abrham",
+    "Address": "alexandia",
+    "City": "VA",
+    "StudentName": "Aiya",
+    "PostalCode": null,
+    "Fee": 20000
+  },
+  {
+    "StudentId": 9,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 10,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 11,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 12,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 13,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 15,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 16,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 17,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "sebrina",
+    "PostalCode": 22406,
+    "Fee": 234567
+  },
+  {
+    "StudentId": 18,
+    "Country": "usa",
+    "ParentName": "saleh",
+    "Address": "center vally",
+    "City": "olney",
+    "StudentName": "tazmin",
+    "PostalCode": 22406,
+    "Fee": 234567
+  }
+]
